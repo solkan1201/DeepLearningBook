@@ -1,5 +1,5 @@
 """
-network_v1.py
+network1.py
 ~~~~~~~~~~
 
 Um módulo para implementar uma rede neural com o aprendizado baseado no algoritmo Stochastic Gradient Descent para uma rede neural feedforward. 
