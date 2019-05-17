@@ -1,4 +1,7 @@
 """
+
+Obs: Este script é baseado na versão do livro http://neuralnetworksanddeeplearning.com/, com a devida autorização do autor.
+
     Código de teste para diferentes configurações de redes neurais.
     Adaptado para o Python 3.6
 

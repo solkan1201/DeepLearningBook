@@ -2,6 +2,8 @@
 network_v2.py
 ~~~~~~~~~~
 
+Obs: Este script é baseado na versão do livro http://neuralnetworksanddeeplearning.com/, com a devida autorização do autor.
+
 Um módulo para implementar uma rede neural com o aprendizado baseado no algoritmo Stochastic Gradient Descent para uma rede neural feedforward. 
 Os gradientes são calculados usando backpropagation. 
 Note que este é um código simples, facilmente legível e facilmente modificável. 

@@ -1,5 +1,7 @@
 # Carregar o dataset MNIST
 
+# Obs: Este script é baseado na versão do livro http://neuralnetworksanddeeplearning.com/, com a devida autorização do autor.
+
 # Imports
 import pickle
 import gzip
