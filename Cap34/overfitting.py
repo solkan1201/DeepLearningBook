@@ -4,6 +4,8 @@ Overfitting
 Plots para ilustrar o problema do Overfitting. 
 """
 
+# Obs: Este script é baseado na versão do livro http://neuralnetworksanddeeplearning.com/, com a devida autorização do autor.
+
 # Imports
 import json
 import random

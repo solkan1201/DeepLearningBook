@@ -1,5 +1,7 @@
 """generate_gradient.py"""
 
+# Obs: Este script é baseado na versão do livro http://neuralnetworksanddeeplearning.com/, com a devida autorização do autor.
+
 #### Imports
 import json
 import math
